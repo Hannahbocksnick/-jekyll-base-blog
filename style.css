@@ -3,3 +3,106 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+header, footer, section {
+    padding:5%;
+    border: 2px solid;
+}
+
+
+img { max-width: 100%; }
+
+[class*=grid] {
+    margin:0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.intro {
+    text-transform:uppercase;
+    background-color: #516F76;
+    color:white;
+}
+
+.tag {
+    border: 1px solid;
+    padding:0.2rem;
+    display: inline-block;
+    margin-top: 1rem;
+    border-radius: 3px;
+}
+
+/* Re-usable Utiity Classes  */
+
+.tall-50 { min-height: 50vh; }
+.tall-60 { min-height: 60vh; }
+.tall-70 { min-height: 70vh; }
+.tall-80 { min-height: 80vh; }
+.tall-90 { min-height: 90vh; }
+
+
+.padded    { padding: 5%;    }
+.padded-1  { padding: 1rem;  }
+.padded-2  { padding: 2rem;  }
+
+
+.padded-t  { padding-top: 5%;     }
+.padded-b  { padding-bottom: 5%;  }
+.padded-l  { padding-left: 5%;    }
+.padded-r  { padding-right: 5%;   }
+
+.padded-0 { padding: 0; }
+.padded-b-0 { padding-bottom: 0; }
+.margin-b-0 { margin-bottom: 0; }
+
+
+.bg-featured { background-color: #018ca2;  }
+.bg-dark     { background-color: #24282B;  }
+
+.light-text { color: white; } 
+.featured-text  { color: #183039; } 
+
+
+.left   { text-align: left; }
+.center { text-align: center; }
+.right  { text-align: right; }
+
+
+/*Universal Typography styles*/
+
+.left    { text-align: left; }
+.right   { text-align: right; }
+.center  { text-align: center; }
+
+body {
+  font-family: "Arial", sans-serif;  /* Add your font here */ 
+}
+
+h2, h3, h4, h5, h6 {
+  line-height: 1.1;
+  margin-bottom: 1.2rem;
+}
+
+p {
+  line-height: 1.4; 
+  margin-bottom: 1rem;
+}
+
+
+/* Header & Footer */
+
+header {padding:2% 5%;}
+
+
+/* Images & Background Images */
+
+.bg-image {
+    background-size: cover;
+    background-position: center;
+}
+
+.square {padding-bottom:100%;}
+
+.landscape {padding-bottom: 60%;}

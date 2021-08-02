@@ -1,7 +1,10 @@
 ---
-layout: default
-title: My first post
-categories: [travel. australia]
+layout: post
+title: My third post
+description: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+author: Kayla
+categories: [self care, bali]
+featured_image: https://www.instituteofcode.com/houdini.jpg
 ---
 
 ## Adventures in Bali

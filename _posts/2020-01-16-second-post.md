@@ -1,7 +1,10 @@
 ---
-layout: default
-title: My first post
-categories: [self care. bali]
+layout: post
+title: My second post
+description: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+author: Matthew
+categories: [travel, australia]
+featured_image: https://www.instituteofcode.com/nala.jpg
 ---
 
 ## Adventures in Bali

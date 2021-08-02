@@ -1,0 +1,4 @@
+collections:
+  posts:
+    ouput: true
+    permalink: /posts/:year/:slug
