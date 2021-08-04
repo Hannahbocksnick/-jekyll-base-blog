@@ -3,6 +3,7 @@ layout: post
 title: My second post
 description: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 author: Matthew
+featured: true
 categories: [travel, australia]
 featured_image: https://www.instituteofcode.com/nala.jpg
 ---

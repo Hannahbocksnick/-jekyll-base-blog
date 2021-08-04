@@ -1,15 +1,11 @@
 ---
 layout: default
-title: Blog Page
+title: travel posts
+category: travel
 ---
 
-<section class="padded">
-    <div class="capped-width grid-center">
-        <div class="col-9 padded-05 center margin-b-1">
-            <h1> Recent on the Blog</h1>
-        </div>
-
-{% for post in site.posts limit:12 %}
+<section>
+    {% for post in site.categories [page.category] %}
 
     <div class="col-4_xs-12 post-item padded-1">
         <div class="bg-image square" style="background-image:url('{{post.featured_image}}')"> </div>
@@ -24,8 +20,6 @@ title: Blog Page
             <a href="{{post.url}}" class="button"> Read More </a>
         </div>
     </div>
- 
-    {% endfor %}
 
-    </div>
+    {% endfor %}
 </section>

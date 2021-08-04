@@ -1,14 +1,14 @@
 ---
 layout: post
-title: My first post
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-author: Hannah
+title: My ninth post
+description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi veritatis magni consectetur reprehenderit adipisci. 
+author: Matt
 featured: true
-categories: [travel, bali]
+categories: [travel, SE asia]
 featured_image: https://www.instituteofcode.com/houdini.jpg
 ---
 
-## Adventures in Bali
+## Self Care in Hawaii
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi veritatis magni consectetur reprehenderit adipisci. Fugiat nostrum repudiandae, ipsa culpa, asperiores sapiente, molestias tempora omnis sunt doloribus commodi eligendi facilis accusamus.
 
