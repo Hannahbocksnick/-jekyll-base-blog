@@ -4,7 +4,7 @@ title: My eighth post
 description: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 author: Kayla
 featured: true
-categories: [self care, california]
+categories: [self-care, california]
 featured_image: https://www.instituteofcode.com/houdini.jpg
 ---
 

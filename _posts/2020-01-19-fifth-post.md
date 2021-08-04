@@ -4,7 +4,7 @@ title: My fifth post
 description: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 author: Kayla
 featured: true
-categories: [self care, bali]
+categories: [self-care, bali]
 featured_image: https://www.instituteofcode.com/houdini.jpg
 ---
 

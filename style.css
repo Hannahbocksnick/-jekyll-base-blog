@@ -91,6 +91,10 @@ html {
 .center { text-align: center; }
 .right  { text-align: right; }
 
+.capped-width { 
+    max-width:1000px;
+    margin:auto; }
+
 
 /*Universal Typography styles*/
 
@@ -115,7 +119,14 @@ p {
 
 /* Header & Footer */
 
-header {padding:2% 5%;}
+header {
+    padding:2% 5%;
+    }
+
+header nav {
+    text-decoration:none;
+    text-transform:uppercase;
+}
 
 
 /* Images & Background Images */
