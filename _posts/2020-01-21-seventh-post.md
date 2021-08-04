@@ -5,7 +5,7 @@ description: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 author: Hannah
 featured: true
 categories: [self-care, hawaii]
-featured_image: https://www.instituteofcode.com/houdini.jpg
+featured_image: https://source.unsplash.com/random
 ---
 
 ## Self Care in Hawaii

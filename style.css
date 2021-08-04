@@ -12,13 +12,14 @@ header, footer, section {
 
 img { max-width: 100%; }
 
-[class*=grid] {
-    margin:0;
-}
+[class*=col] {padding:0;}
+[class*=grid] {margin:0;}
 
 html {
     scroll-behavior: smooth;
 }
+
+section {position:relative;}
 
 .intro {
     text-transform:uppercase;
@@ -137,8 +138,9 @@ header nav {
 }
 
 .square {padding-bottom:100%;}
-
-.landscape {padding-bottom: 60%;}
+.portrait {padding-bottom:125%;}
+.landscape {padding-bottom: 66%;}
+.portrait-tall {padding-bottom:175%;}
 
 .button {
     border: 1px solid grey;

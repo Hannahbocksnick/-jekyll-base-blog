@@ -5,7 +5,7 @@ description: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 author: Matthew
 featured: true
 categories: [travel, australia]
-featured_image: https://www.instituteofcode.com/nala.jpg
+featured_image: https://source.unsplash.com/random
 ---
 
 ## Adventures in Bali

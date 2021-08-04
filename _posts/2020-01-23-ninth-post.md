@@ -5,7 +5,7 @@ description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi 
 author: Matt
 featured: true
 categories: [travel, SE asia]
-featured_image: https://www.instituteofcode.com/houdini.jpg
+featured_image: https://source.unsplash.com/random
 ---
 
 ## Self Care in Hawaii
