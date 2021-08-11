@@ -5,7 +5,7 @@ description: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 author: Hannah
 featured: true
 categories: [self-care, hawaii]
-featured_image: https://source.unsplash.com/random
+featured_image: https://source.unsplash.com/random?sig=123
 ---
 
 ## Self Care in Hawaii

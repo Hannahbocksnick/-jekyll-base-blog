@@ -5,7 +5,7 @@ description: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 author: Kayla
 featured: true
 categories: [self-care, bali]
-featured_image: https://source.unsplash.com/random
+featured_image: https://source.unsplash.com/random?sig=123
 ---
 
 ## Self Developement in Bali

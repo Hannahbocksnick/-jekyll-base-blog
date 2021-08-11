@@ -5,7 +5,7 @@ description: Lorem ipsum dolor sit amet consectetur adipisicing elit.
 author: Hannah
 featured: true
 categories: [travel, bali]
-featured_image: https://source.unsplash.com/random
+featured_image: https://source.unsplash.com/random?sig=123
 ---
 
 ## Adventures in Bali
